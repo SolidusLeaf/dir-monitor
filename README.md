@@ -42,7 +42,12 @@ python dir_monitor -d /path/one /path/two
 ## Requirements
 
 - Python 3.8+
-- No external dependencies
+- Standard Library only:
+  - os
+  - threading
+  - time
+  - argparse
+  - signal
 
 ## How it works
 
