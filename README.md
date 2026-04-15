@@ -1,4 +1,3 @@
-# dir-monitor
 # Directory Monitoring Tool
 
 A lightweight Python tool for monitoring file system changes across multiple directories using threading and CLI arguments.
